@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"reactexamplee2261a5d": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
